@@ -1,21 +1,22 @@
 <h1 align="center">Hi, I'm Luis Felipe</h1>
-<h3 align="center"> web development student </h3>
+<h3 align="center">Web Development Student</h3>
 
-- 🌱 I’m currently learning **Python + Django**
+<p align="center">🌱 I’m currently learning <strong>Python + Django</strong></p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Luisf66](https://github.com/Luisf66)
+<p align="center">👨‍💻 All of my projects are available at <a href="https://github.com/Luisf66">GitHub</a></p>
 
-- 📫 How to reach me:
-  <p align="left">
+<h3 align="center">📫 How to reach me</h3>
+<p align="center">
     <a href="mailto:Luisf311220@gmail.com" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="gmail" width="40" height="40"/>
     </a>
     <a href="https://www.linkedin.com/in/luís-felipe-0943a62b5" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/>
     </a>
-  </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+</p>
+
+<h3 align="center">Languages and Tools</h3>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <!-- C++ -->
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -44,20 +45,25 @@
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
     </a>
+</div>
+
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Luisf66&show_icons=true&locale=en" alt="Luisf66" />
+</p>
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luisf66&" alt="Luisf66" />
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luisf66&show_icons=true&locale=en&layout=compact" alt="Luisf66" />
 </p>
 
-## 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Luisf66&show_icons=true&locale=en" alt="Luisf66" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Luisf66&" alt="Luisf66" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Luisf66&show_icons=true&locale=en&layout=compact" alt="Luisf66" /></p><br><br><br>
-<br><br><br><br><br>
-
-
-## 🏆 GitHub Trophies
+<h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luisf66&theme=onedark" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Luisf66&theme=onedark" alt="GitHub Trophies" />
 </p>
-⚡ Recent GitHub Activity
+
+<h3 align="center">⚡ Recent GitHub Activity</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luisf66&bg_color=1a1b27&color=ffffff&line=38bdae&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luisf66&bg_color=1a1b27&color=ffffff&line=38bdae&point=38bdae&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
