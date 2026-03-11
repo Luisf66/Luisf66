@@ -18,6 +18,8 @@
 - 🌱 Atualmente focado no ecossistema **Python + Django** e **Django Rest Framework (DRF)**.
 - 🛠️ Versionamento de código e colaboração com **Git & GitHub**.
 - 🎨 Construindo interfaces responsivas e funcionais com **Bootstrap**.
+- 🐋 Docker para containerização de aplicações
+- ⚙️ Boas práticas de arquitetura em Django
 
 ### 🛠️ Tecnologias e Ferramentas
 
@@ -34,6 +36,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 </div>
 
@@ -61,3 +64,17 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
+---
+
+### 📌 Featured Projects
+
+- 🔗 **[Sistema de Gerenciamento de Estoque (SGE)](https://github.com/Luisf66/sge)**
+
+  Sistema **Full Stack** desenvolvido com **Django e Django REST Framework**, com controle de usuários e permissões, gerenciamento de estoque e **API REST com autenticação JWT**.  
+  O projeto também utiliza **Docker para containerização**, permitindo execução e deploy simplificados da aplicação.
+
+- 🔗 **[Sistema de Gestão de Estoque e Vendas](https://casadoartesaodoserido.sethas.rn.gov.br/sigarte/portal/)**
+  
+  Sistema web utilizado pelo **Governo do Estado do Rio Grande do Norte**, desenvolvido com **Django**, responsável pelo gerenciamento de estoque, controle de vendas e operações administrativas.  
+  A aplicação inclui funcionalidades como **CRUD completo de produtos, controle de vendas, autenticação de usuários e interface web responsiva utilizando Bootstrap**.
