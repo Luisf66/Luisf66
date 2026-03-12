@@ -69,12 +69,16 @@
 
 ### 📌 Featured Projects
 
-- 🔗 **[Sistema de Gerenciamento de Estoque (SGE)](https://github.com/Luisf66/sge)**
+- ✅ **[Sistema de Gerenciamento de Estoque (SGE)](https://github.com/Luisf66/sge)**
 
   Sistema **Full Stack** desenvolvido com **Django e Django REST Framework**, com controle de usuários e permissões, gerenciamento de estoque e **API REST com autenticação JWT**.  
   O projeto também utiliza **Docker para containerização**, permitindo execução e deploy simplificados da aplicação.
 
-- 🔗 **[Sistema de Gestão de Estoque e Vendas](https://casadoartesaodoserido.sethas.rn.gov.br/sigarte/portal/)**
+- ✅ **[Sistema de Gestão de Estoque e Vendas (SigArte)](https://casadoartesaodoserido.sethas.rn.gov.br/sigarte/portal/)**
   
   Sistema web utilizado pelo **Governo do Estado do Rio Grande do Norte**, desenvolvido com **Django**, responsável pelo gerenciamento de estoque, controle de vendas e operações administrativas.  
   A aplicação inclui funcionalidades como **CRUD completo de produtos, controle de vendas, autenticação de usuários e interface web responsiva utilizando Bootstrap**.
+
+- ⏳ **[Sistema de Gestão Financeira Pessoal (BitApp)](https://github.com/Luisf66/bit-app)**
+
+  Plataforma web completa para controle de finanças pessoais com suporte à análise de carteira Bitcoin via leitura de dados da plataforma BIPA.
