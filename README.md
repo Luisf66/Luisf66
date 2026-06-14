@@ -79,6 +79,6 @@
   Sistema web utilizado pelo **Governo do Estado do Rio Grande do Norte**, desenvolvido com **Django**, responsável pelo gerenciamento de estoque, controle de vendas e operações administrativas.  
   A aplicação inclui funcionalidades como **CRUD completo de produtos, controle de vendas, autenticação de usuários e interface web responsiva utilizando Bootstrap**.
 
-- ⏳ **[Sistema de Gestão Financeira Pessoal (BitApp)](https://github.com/Luisf66/bit-app)**
+- ✅ **[Sistema de Gestão Financeira Pessoal (BitApp)](https://github.com/Luisf66/bit-app)**
 
   Plataforma web completa para controle de finanças pessoais com suporte à análise de carteira Bitcoin via leitura de dados da plataforma BIPA.
