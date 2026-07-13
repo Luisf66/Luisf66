@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi, I'm Luis Felipe 👋</h1>
-  <p><strong>Web Development Student | Python & Django Developer</strong></p>
+  <h1>Olá, eu sou Luis Felipe 👋</h1>
+  <p><strong>Estudante de Desenvolvimento Web | Desenvolvedor Python & Django</strong></p>
 </div>
 
 <div align="center">
@@ -14,21 +14,21 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 Sobre mim
 
-- 🌱 Atualmente focado no ecossistema **Python, Django e Django REST Framework**.
-- 🎨 Desenvolvimento de interfaces modernas utilizando **Tailwind CSS**.
-- 🛠️ Controle de versão e colaboração com **Git & GitHub**.
-- 🐋 Containerização de aplicações com **Docker**.
-- ⚙️ Aplicação de boas práticas de arquitetura em projetos Django.
-- 🔄 Experiência utilizando **GitHub Actions** para **Continuous Integration (CI)**, automatizando testes e validações.
-- 🐧 Utilização diária de **Linux** como ambiente de desenvolvimento.
+* 🌱 Atualmente estou focado no ecossistema **Python, Django e Django REST Framework**.
+* 🎨 Desenvolvimento de interfaces modernas utilizando **Tailwind CSS**.
+* 🛠️ Controle de versão e colaboração com **Git** e **GitHub**.
+* 🐋 Containerização de aplicações utilizando **Docker**.
+* ⚙️ Aplicação de boas práticas de arquitetura em projetos Django.
+* 🔄 Experiência com **GitHub Actions** para **Integração Contínua (CI)**, automatizando testes e validações.
+* 🐧 Utilizo **Linux** diariamente como ambiente principal de desenvolvimento.
 
 ---
 
-## 🛠️ Technologies & Tools
+# 🛠️ Tecnologias e Ferramentas
 
-### Backend & Database
+## Backend e Banco de Dados
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
-### Frontend & DevOps
+## Frontend e DevOps
 
 <div align="left">
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -50,7 +50,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 Estatísticas do GitHub
 
 <p align="center">
   <a href="https://nice-readme.vercel.app/streak-stats">
@@ -71,18 +71,18 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Animação da cobra de contribuições" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+# 📌 Projetos em Destaque
 
 ### ✅ [Sistema de Gerenciamento de Estoque (SGE)](https://github.com/Luisf66/sge)
 
-Sistema **Full Stack** desenvolvido com **Django** e **Django REST Framework**, contando com autenticação JWT, controle de usuários e permissões, gerenciamento de estoque e arquitetura preparada para APIs REST.
+Sistema **Full Stack** desenvolvido com **Django** e **Django REST Framework**, contando com autenticação via JWT, controle de usuários e permissões, gerenciamento de estoque e arquitetura preparada para APIs REST.
 
-O projeto utiliza **Docker** para facilitar desenvolvimento, testes e deploy.
+O projeto utiliza **Docker** para facilitar o desenvolvimento, os testes e o deploy.
 
 ---
 
@@ -96,16 +96,10 @@ A aplicação inclui funcionalidades como CRUD completo de produtos, autenticaç
 
 ### ✅ [Sistema de Gestão Financeira Pessoal (BitApp)](https://github.com/Luisf66/bit-app)
 
-Plataforma web para controle de finanças pessoais com gerenciamento de receitas e despesas e suporte à análise da carteira Bitcoin através da integração com dados da plataforma **BIPA**.
+Plataforma web para gerenciamento de finanças pessoais, permitindo o controle de receitas e despesas, além da análise da carteira de Bitcoin por meio da integração com dados da plataforma **BIPA**.
 
 ---
 
 ### ⏳ [Service Solve](https://github.com/Luisf66/Service_Solve)
 
-O projeto resolve um problema simples e cotidiano: você precisa de um encanador, eletricista ou outro profissional, mas não conhece ninguém de confiança na sua região.
-
-A plataforma conecta clientes a prestadores de serviço de forma direta, permitindo busca por categoria e localização, negociação via chat, acompanhamento do status do serviço e avaliação mútua ao final — tudo em um único lugar.
-
-<div align="center">
-
-</div>
+O projeto resolve um problema simples e cotidiano: você precisa de um encanador, eletricista ou outro profissional, mas não conhece ninguém de confiança na sua região. A plataforma conecta clientes a prestadores de serviço de forma direta, permitindo busca por categoria e localização, negociação via chat, acompanhamento do status do serviço e avaliação mútua ao final — tudo em um único lugar.
