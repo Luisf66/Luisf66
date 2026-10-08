@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá, eu sou Luis Felipe 👋</h1>
-  <p><strong>Estudante de Desenvolvimento Web | Desenvolvedor Python & Django</strong></p>
+  <p><strong>Estudante de Sistemas de Informação | Desenvolvedor Python & Django</strong></p>
 </div>
 
 <div align="center">
@@ -53,10 +53,6 @@
 # 📊 Estatísticas do GitHub
 
 <p align="center">
-  <a href="https://nice-readme.vercel.app/streak-stats">
-    <img src="https://github-streak-stats-ruby.vercel.app/?user=Luisf66&theme=tokyonight&hide_border=true&border_radius=4.5&locale=pt_BR&card_width=400" />
-  </a>
-
   <a href="https://nice-readme.vercel.app/github-stats">
     <img src="https://helio-github-stats.vercel.app/api?username=Luisf66&theme=tokyonight&border_radius=4.5&card_width=400" />
   </a>
@@ -64,9 +60,7 @@
 
 <br/>
 
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Luisf66&theme=tokyonight&hide_border=true&area=true" />
-</div>
+
 
 ---
 
@@ -100,6 +94,6 @@ Plataforma web para gerenciamento de finanças pessoais, permitindo o controle d
 
 ---
 
-### ⏳ [Service Solve](https://github.com/Luisf66/Service_Solve)
+### ✅ [Service Solve](https://github.com/Luisf66/Service_Solve)
 
 O projeto resolve um problema simples e cotidiano: você precisa de um encanador, eletricista ou outro profissional, mas não conhece ninguém de confiança na sua região. A plataforma conecta clientes a prestadores de serviço de forma direta, permitindo busca por categoria e localização, negociação via chat, acompanhamento do status do serviço e avaliação mútua ao final — tudo em um único lugar.
